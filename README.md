@@ -9,7 +9,7 @@
 [English](README.md) | [简体中文](README_zh.md) | [日本語](README_ja.md)
 
 **[👉 Generate with Nano Banana Pro on APIMart · apimart.ai/model/nano-banana-pro-api](https://gola.apimart.ai/k-DlbMXo)**
-[💰 Pricing](https://gola.apimart.ai/k-DlbMXo) · [🔑 Get an API key](https://gola.apimart.ai/k-DlbMXo)
+[💰 Pricing](https://gola.apimart.ai/k-HBKnrF) · [🔑 Get an API key](https://gola.apimart.ai/k-yRHVnu)
 
 
 ## 💰 Pricing (official, effective 2026-10-21)
@@ -50,7 +50,7 @@ Nano Banana Pro is known for multi-image consistency and high-fidelity detail. T
 
 - **252** prompts in this collection
 - **9** Category
-- Last updated: 2026-10-26
+- Last updated: 2026-10-19
 - apimart.ai/model/nano-banana-pro-api
 
 ## Browse by Category
